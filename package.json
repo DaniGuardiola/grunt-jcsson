@@ -1,0 +1,26 @@
+{
+  "name": "jcsson",
+  "version": "0.0.1",
+  "description": "CSS abstraction with JSON - Code tags and attributes without worrying about selection",
+  "main": "compiler.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DaniGuardiola/jcsson"
+  },
+  "keywords": [
+    "JSON",
+    "CSS",
+    "abstraction"
+  ],
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/DaniGuardiola/jcsson/issues"
+  }
+}
