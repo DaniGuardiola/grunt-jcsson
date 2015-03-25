@@ -1,5 +1,5 @@
 {
-  "name": "jcsson",
+  "name": "grunt-jcsson",
   "version": "0.0.1",
   "description": "CSS abstraction with JSON - Code tags and attributes without worrying about selection",
   "main": "compiler.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/DaniGuardiola/jcsson"
+    "url": "git://github.com/DaniGuardiola/grunt-jcsson"
   },
   "keywords": [
     "JSON",
@@ -21,6 +21,6 @@
   "author": "",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/DaniGuardiola/jcsson/issues"
+    "url": "https://github.com/DaniGuardiola/grunt-jcsson/issues"
   }
 }
